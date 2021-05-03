@@ -1,1 +1,1 @@
-# dependencias .net core 5
+# dependências .net core 5
